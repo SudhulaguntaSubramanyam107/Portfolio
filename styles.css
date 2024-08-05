@@ -6,11 +6,6 @@ containerbody {
     color: #333;
 }
 
-.container{
-    display: "flex";
-    flex-direction: "row";
-}
-
 header {
     background: linear-gradient(135deg, #00c6ff, #0072ff);
     color: white;
