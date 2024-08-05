@@ -66,6 +66,12 @@ nav ul li a:hover {
     margin: 0 auto;
     max-width: 1200px; 
     display:flex;
+} 
+.container-skills {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px; 
+    display:flex;
     flex-wrap:wrap ;
     flex-direction:row
 }
